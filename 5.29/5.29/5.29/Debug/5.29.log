@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\alice\desktop\ff\hw1103\5.29\source\source.cpp(14): warning C4101: 'max': 未參考的區域變數
+c:\users\alice\desktop\ff\hw1103\5.29\source\source.cpp(14): warning C4101: 'min': 未參考的區域變數
+c:\users\alice\desktop\ff\hw1103\5.29\source\source.cpp(26): warning C4715: 'f1': 不是所有控制路徑都傳回值
+  5.29.vcxproj -> C:\Users\alice\Desktop\ff\HW1103\5.29\5.29\Debug\5.29.exe
